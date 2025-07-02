@@ -10,9 +10,8 @@
 ### 🌟 Who Am I?
 - 🎓 B.Tech CSE (Cybersecurity + Blockchain) | 2027
 - 💻 Java + React + Spring Boot Developer-in-Progress 🛠️
-- 🌤️ Currently building: **SkySense Weather App** ⛅  
-- 🧪 Side hustle: **Organic Tub** – tech meets wellness 🍀  
-- ✍️ Story weaving @ Wattpad → **Nest of Tales** 📚  
+- 🌤️ Currently building: **ClarityView** ⛅  
+- 🧪 Side hustle: **Organic Tub** – tech meets wellness 🍀   
 - 🚧 Upgrading skills in Git, DSA & Full Stack daily 🚀  
 
 ---
@@ -39,7 +38,6 @@
 
 ### 🔗 Let’s Connect & Collaborate
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasritha-chinthagunta-611397320/)
-[![Wattpad](https://img.shields.io/badge/Wattpad-orange?style=for-the-badge&logo=wattpad&logoColor=white)](https://www.wattpad.com/user/NestofTales)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasritha.0246@gmail.com)
 
 ---
