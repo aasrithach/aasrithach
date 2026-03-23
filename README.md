@@ -1,63 +1,56 @@
 <h1 align="center">✨ Hey, I'm Aasritha 👩‍💻</h1>
 
 <p align="center">
-  🌐 Cybersecurity Student • 💡 Project Builder • 🌱 Tech Explorer  
+  <b>Designing ideas. Building impact. Growing into something unstoppable 🚀</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aasrithach&label=Profile+Views&color=9b59b6" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/aasrithach?label=Followers&style=social" alt="followers"/>
+  🌸 Creative Developer • 🚀 Future Builder • 🧠 Problem Solver  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aasrithach&label=Profile+Views&color=ff69b4" />
+  <img src="https://img.shields.io/github/followers/aasrithach?label=Followers&style=social" />
 </p>
 
 ---
 
-### 🔥 Quick Bytes About Me
+## 💫 About Me (Not So Basic)
 
-- 🎓 B.Tech in Cybersecurity & Blockchain @ KLEF (2027)  
-- ⚙️ Tech I ❤️: `Java`, `C`, `React.js`, `MySQL`, `HTML`, `CSS`, `Git`
-- 🛠️ Currently building: **ClarityView** – a smarter way to read, built for eyes 👀  
-- 🧠 Always learning: Git, DSA, and Full Stack Development  
-- 🎯 Mission: Build cool things that solve real problems  
-
----
-
-### 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+✨ I’m not just learning tech — I’m learning how to **build things that matter**  
+🎯 I believe code + creativity = **real impact**  
+🌱 Currently evolving into a **developer who solves real-world problems**  
+🚀 Long-term vision: Build products, not just projects  
 
 ---
 
-### 📊 GitHub Stats That Slap 😎
+## 🧠 My Identity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aasrithach&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasrithach&layout=compact&theme=tokyonight" width="48%"/>
-</p>
+```diff
++ I mix design with development  
++ I don’t just code — I think, design, and build  
++ I focus on real-world use cases  
++ I’m exploring ideas that could turn into startups  
+⚡ Currently Leveling Up
+📌 Data Structures & Algorithms
+⚙️ Full Stack Development (React + Spring Boot)
+🔐 Cybersecurity Fundamentals
+🧩 Building consistency & discipline
+🛠️ Tech I Work With
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,c,react,mysql,html,css,git" /> </p>
+🌱 What I'm Building
 
----
+🚧 I’m currently working on ideas that focus on
+real-world problems, user experience, and meaningful impact
 
-### 📬 Let's Connect!
+(Stay tuned — something interesting is always cooking 👀)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aasritha-chinthagunta-611397320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aasritha.0246@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Just a girl with big dreams and even bigger ideas ✨"</i><br/>
-  <b>~ Let's build something meaningful together✌️ ~</b>
-</p>
+📊 My GitHub Energy ⚡
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aasrithach&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasrithach&theme=tokyonight&hide_border=true" width="48%"/> </p>
+🐍 Contribution Snake (because why not 😎)
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+🤝 Let’s Connect
+<p align="center"> <a href="https://www.linkedin.com/in/aasritha-chinthagunta-611397320/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/> </a> </p>
+💭 A Thought I Live By
+<p align="center"> <i> “I don’t want to be just another developer. I want to build things people actually remember.” </i> </p>
+<p align="center"> ✨ <b>Still learning. Still building. Still becoming.</b> ✨ </p> ```
