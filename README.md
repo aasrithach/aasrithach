@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 </p>
 
 <p align="center">
@@ -35,10 +35,10 @@
 ## 🧠 My Identity
 
 ```diff
-+ I mix design with development  
-+ I don’t just code — I think, design, and build  
-+ I focus on real-world use cases  
-+ I’m exploring ideas that could turn into startups  
++ I design before I build — clarity first, code next  
++ I turn simple ideas into meaningful user experiences  
++ I care about how things feel, not just how they work  
++ I’m building myself into someone who creates impact, not just projects  
 ```
 
 ---
