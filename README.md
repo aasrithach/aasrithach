@@ -38,7 +38,9 @@
 + I mix design with development  
 + I don’t just code — I think, design, and build  
 + I focus on real-world use cases  
-+ I’m exploring ideas that could turn into startups
++ I’m exploring ideas that could turn into startups  
+```
+
 ---
 
 ## ⚡ Currently Leveling Up
