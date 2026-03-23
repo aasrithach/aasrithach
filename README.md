@@ -9,6 +9,11 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aasrithach&label=Profile+Views&color=ff69b4" />
+  <img src="https://img.shields.io/github/followers/aasrithach?label=Followers&style=social" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Creative%20Mind-ff69b4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Builder-6C63FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learner-00C9A7?style=for-the-badge"/>
