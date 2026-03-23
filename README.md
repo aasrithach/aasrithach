@@ -8,53 +8,63 @@
   <b>Designing ideas. Building impact. Growing into something unstoppable 🚀</b>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Creative%20Mind-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Builder-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learner-00C9A7?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 💫 About Me 
 
-✨ I’m not just learning tech — I’m learning how to **build things that matter**  
-🎯 I believe code + creativity = **real impact**  
-🌱 Currently evolving into a **developer who solves real-world problems**  
-🚀 Long-term vision: Build products, not just projects  
+✨ I’m not just learning tech — I’m learning how to <b>build things that matter</b>  
+🎯 I believe <span style="color:#ff69b4;">code + creativity</span> = <b>real impact</b>  
+🌱 Currently evolving into a <b>developer who solves real-world problems</b>  
+🚀 Long-term vision: <span style="color:#6C63FF;">Build products, not just projects</span>  
 
 ---
 
 ## 🧠 My Identity
 
-- I design before I build — clarity first, code next  
-- I turn simple ideas into meaningful user experiences  
-- I care about how things feel, not just how they work  
-- I’m building myself into someone who creates impact, not just projects  
+- 💡 I design before I build — clarity first, code next  
+- 🎨 I turn simple ideas into meaningful user experiences  
+- ⚡ I care about how things feel, not just how they work  
+- 🚀 I’m building myself into someone who creates impact, not just projects  
 
 ---
 
 ## ⚡ Currently Leveling Up
 
-- 📌 Data Structures & Algorithms  
-- ⚙️ Full Stack Development (React + Spring Boot)  
-- 🔐 Cybersecurity Fundamentals  
+<p>
+  <img src="https://img.shields.io/badge/DSA-FF6F61?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-9C27B0?style=flat-square"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-`Java` • `C` • `React` • `MySQL` • `HTML` • `CSS` • `Git`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,react,mysql,html,css,git" />
+</p>
 
 ---
 
 ## 🌱 What I'm Building
 
-> Working on ideas that focus on  
-> **real-world problems + meaningful user experience**
+> 🚧 Working on ideas that focus on  
+> <b>real-world problems + meaningful user experience</b>
 
 ---
 
 ## 🚀 What Makes Me Different
 
-- I don’t just follow tutorials — I **think and build independently**  
-- I combine **logic + creativity** to make things useful  
-- I focus on **real impact, not just completing projects**  
-- I’m building with a **long-term vision, not short-term results**  
+- ✨ I don’t just follow tutorials — I <b>think and build independently</b>  
+- 🎯 I combine <span style="color:#00C9A7;">logic + creativity</span>  
+- 💡 I focus on <b>real impact</b>, not just completing projects  
+- 🚀 I build with a <span style="color:#ff69b4;">long-term vision</span>  
 
 ---
 
@@ -77,7 +87,9 @@
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aasritha-chinthagunta-611397320/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aasritha-chinthagunta-611397320/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
